@@ -1,7 +1,7 @@
 # Test
 This is a test repository.
-# This is what you see with one pound symbol.
-## This is what you see with two pound symbols.
-### This is what you see with three pound symbols.
+# 💅This is what you see with one pound symbol.
+## 🌀This is what you see with two pound symbols.
+### :cat:This is what you see with three pound symbols.
 #### This is what you see with four pound symbols.
 ##### This is what you see with five pound symbols.
